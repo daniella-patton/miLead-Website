@@ -4,6 +4,7 @@ Last Edit: 7/8/2020
 
 ## Project title
 A simple professional website created to host training modules for a UM consulting club.
+Website Link: http://mileadtraining-env.eba-3rbm2m3j.us-west-2.elasticbeanstalk.com/
 
 ## Motivation
 This website was created in collaboration with miLead, a consulting club at the University of Michigan. 
