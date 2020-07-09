@@ -1,6 +1,6 @@
-# miLead-Website
-### Daniella Patton
-#### Last Edit: 7/8/2020
+# miLead Training Module Website
+Daniella Patton
+Last Edit: 7/8/2020
 
 ## Project title
 A simple professional website created to host training modules for a UM consulting club.
