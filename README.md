@@ -13,4 +13,4 @@ This website was created using Flask and was deployed on AWS. The website used b
 In order to access this website, the correct username and password must be entered in the login page.
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/daniella-patton/miLead-Website/blob/master/Login.png?raw=true)
