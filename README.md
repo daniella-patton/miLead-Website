@@ -29,7 +29,8 @@ In order to access this website, the correct username and password must be enter
 ![alt text](https://github.com/daniella-patton/miLead-Website/blob/master/Home.png?raw=true)
 
 ## How to use?
-Run application.py in your terminal to view the website. Use this file to identify the html files corresponding to each page. Make edits (e.g., add images, powerpoint slides, pdfs, and text to personalize this for your own use). A single pdf and ppt slide has been uploaded for your reference.
+Run application.py in your terminal to view the website. The preset usernmame and password are 'Your Username' and 'Your Password', respectively.
+Use this file to identify the html files corresponding to each page. Make edits (e.g., add images, powerpoint slides, pdfs, and text to personalize this for your own use). A single pdf and ppt slide has been uploaded for your reference.
 
 To host your website on AWS simply compress all files and upload using elastic beanstalk. 
 
