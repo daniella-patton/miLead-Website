@@ -2,8 +2,10 @@
 ### Daniella Patton
 #### Last Edit: 7/8/2020
 
-A website created to host training modules for a UM consulting club.
+## Project title
+A simple professional website created to host training modules for a UM consulting club.
 
+## Motivation
 This website was created in collaboration with miLead, a consulting club at the University of Michigan. 
 This website was the product of a two month project where a team of 10 consultants (2 managers and 8 consultants) created training modules covering topics ranging from powerpoint design to market analysis. These modules were prepared specifically for new members of the club who have little to no experience in consulting =.
 
@@ -23,3 +25,15 @@ In order to access this website, the correct username and password must be enter
 #### Example image of the home page:
 
 ![alt text](https://github.com/daniella-patton/miLead-Website/blob/master/Home.png?raw=true)
+
+## How to use?
+Run application.py in your terminal to view the website. Use this file to identify the html files corresponding to each page. Make edits (e.g., add images, powerpoint slides, pdfs, and text to personalize this for your own use). 
+To host your website on AWS simply compress all files and upload using elastic beanstalk. 
+
+## Credits
+* Much of this code was created using https://getbootstrap.com/
+* Instructions on how to host the website can be found directly on AWS
+* Video tutorials by Tech With Tim were incredibly useful in getting started with creating a web application. 
+
+## License
+MIT © Daniella Patton
