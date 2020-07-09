@@ -1,0 +1,23 @@
+/*
+ * Formatting the mastheads area
+ */
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5a8b6261e45a7c673468e473/1568906790667-L4Z7CLRYGIGKN1FC3LJK/ke17ZwdGBToddI8pDm48kEzLYSedLSGzFOX4t5uJTm4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYwL8IeDg6_3B-BRuF4nNrNcQkVuAT7tdErd0wQFEGFSnP1Vq6NpTR1JqKaZdCLjjDG-o_i355RKZQ4NHARACL44CRU4GLQ6ikH020t0QIPcbw/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.transbox {
+    margin: 30px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
