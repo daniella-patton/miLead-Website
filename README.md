@@ -1,6 +1,6 @@
 # miLead-Website
 ### Daniella Patton
-### Last Edit: 7/8/2020
+#### Last Edit: 7/8/2020
 
 A website created to host training modules for a UM consulting club.
 
@@ -15,11 +15,11 @@ This website was created using Flask and was deployed on AWS. The website used b
 
 In order to access this website, the correct username and password must be entered in the login page.
 
-Example login page:
+#### Example login page:
 
 ![alt text](https://github.com/daniella-patton/miLead-Website/blob/master/Login.png?raw=true)
 
 
-Example image of the home page:
+#### Example image of the home page:
 
-![alt text](https://github.com/daniella-patton/miLead-Website/blob/master/Login.png?raw=true)
+![alt text](https://github.com/daniella-patton/miLead-Website/blob/master/Home.png?raw=true)
